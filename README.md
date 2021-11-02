@@ -1,2 +1,1 @@
-# ConvNets-Visualization
-Visualizing ConvNets
+# Visualizing ConvNets
